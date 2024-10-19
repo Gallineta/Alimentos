@@ -1,0 +1,386 @@
+[
+    {
+     "Alimentos": "Arándanos",
+     "Índice glucémico": 25
+    },
+    {
+     "Alimentos": "Cereza",
+     "Índice glucémico": 25
+    },
+    {
+     "Alimentos": "Fresa",
+     "Índice glucémico": 29
+    },
+    {
+     "Alimentos": "Albaricoque seco",
+     "Índice glucémico": 31
+    },
+    {
+     "Alimentos": "Albaricoque fresco",
+     "Índice glucémico": 34
+    },
+    {
+     "Alimentos": "Ciruela",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Manzana",
+     "Índice glucémico": 36
+    },
+    {
+     "Alimentos": "Naranja",
+     "Índice glucémico": 43
+    },
+    {
+     "Alimentos": "Melocotón",
+     "Índice glucémico": 43
+    },
+    {
+     "Alimentos": "Kiwi",
+     "Índice glucémico": 47
+    },
+    {
+     "Alimentos": "Uvas",
+     "Índice glucémico": 49
+    },
+    {
+     "Alimentos": "Mango",
+     "Índice glucémico": 51
+    },
+    {
+     "Alimentos": "Chirimoya",
+     "Índice glucémico": 54
+    },
+    {
+     "Alimentos": "Plátano",
+     "Índice glucémico": 58
+    },
+    {
+     "Alimentos": "Melón",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Piña",
+     "Índice glucémico": 66
+    },
+    {
+     "Alimentos": "Uvas pasas",
+     "Índice glucémico": 66
+    },
+    {
+     "Alimentos": "Dátil",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Acelgas",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Brócoli",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Cebolla",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Champiñon",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Espinacas",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Lechuga",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Pepino",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Pimiento verde",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Setas",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Berenjena",
+     "Índice glucémico": 20
+    },
+    {
+     "Alimentos": "Ajo",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Nabo crudo",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Remolacha",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Tomate",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Zanahoria",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Achicoria polvo",
+     "Índice glucémico": 40
+    },
+    {
+     "Alimentos": "Calabaza",
+     "Índice glucémico": 75
+    },
+    {
+     "Alimentos": "Nabo cocido",
+     "Índice glucémico": 85
+    },
+    {
+     "Alimentos": "Zanahoria cocida",
+     "Índice glucémico": 85
+    },
+    {
+     "Alimentos": "Skyr",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Bebida de almendra",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Bebida de avena sin hidrolizar",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Bebida de soja",
+     "Índice glucémico": 34
+    },
+    {
+     "Alimentos": "Leche entera",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Yogur natural",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Ensure. Batido proteínas",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Leche condensada",
+     "Índice glucémico": 61
+    },
+    {
+     "Alimentos": "Bebida de arroz",
+     "Índice glucémico": 85
+    },
+    {
+     "Alimentos": "Harina de algarroba",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Harina de almendras",
+     "Índice glucémico": 20
+    },
+    {
+     "Alimentos": "Amaranto",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Arrz salvaje cocido",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Harina de garbanzo",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Pasta de lentejas",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Quinoa",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Avena",
+     "Índice glucémico": 40
+    },
+    {
+     "Alimentos": "Copos de avena",
+     "Índice glucémico": 40
+    },
+    {
+     "Alimentos": "Pasta de trigo integral",
+     "Índice glucémico": 40
+    },
+    {
+     "Alimentos": "Harina de centeno",
+     "Índice glucémico": 45
+    },
+    {
+     "Alimentos": "Pan integral espelta",
+     "Índice glucémico": 45
+    },
+    {
+     "Alimentos": "Arroz integral cocido",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Arroz basmati",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Boniato",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Cereales industriales con fibra. Tipo All bran",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Fideos de soja",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Galleta sin azúcar",
+     "Índice glucémico": 50
+    },
+    {
+     "Alimentos": "Harina de avena",
+     "Índice glucémico": 56
+    },
+    {
+     "Alimentos": "Pasta de trigo",
+     "Índice glucémico": 60
+    },
+    {
+     "Alimentos": "Cus cus cocido",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Galletas tipo Digestive",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Maiz en lata",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Maiz tostado (kikos)",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Pan integral trigo",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Patata cocida con cascara",
+     "Índice glucémico": 65
+    },
+    {
+     "Alimentos": "Arrzo blanco cocido",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Cereales industriales azucarados",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Galletas maria",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Galletas tipo principe",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Harina de arroz",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Harina integral de espelta",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Patata frita",
+     "Índice glucémico": 70
+    },
+    {
+     "Alimentos": "Harina de trigo",
+     "Índice glucémico": 75
+    },
+    {
+     "Alimentos": "Pan blanco",
+     "Índice glucémico": 75
+    },
+    {
+     "Alimentos": "Arroz blanco precocido",
+     "Índice glucémico": 85
+    },
+    {
+     "Alimentos": "Patata al horno",
+     "Índice glucémico": 95
+    },
+    {
+     "Alimentos": "Altramuces",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Cacahuetes tostados",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Habas frescas",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Soja",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Almendras",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Avellanas",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Nueces",
+     "Índice glucémico": 15
+    },
+    {
+     "Alimentos": "Anacardos",
+     "Índice glucémico": 25
+    },
+    {
+     "Alimentos": "Semillas de calabaza",
+     "Índice glucémico": 25
+    },
+    {
+     "Alimentos": "Lentejas cocidas",
+     "Índice glucémico": 30
+    },
+    {
+     "Alimentos": "Garbanzos cocidos",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Judias blancas cocidas",
+     "Índice glucémico": 35
+    },
+    {
+     "Alimentos": "Semillas de girasol",
+     "Índice glucémico": 35
+    }
+   ]

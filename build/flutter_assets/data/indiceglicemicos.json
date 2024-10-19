@@ -1,0 +1,1184 @@
+[
+    {
+     "Alimento": "Nueces",
+     "IG": 25
+    },
+    {
+     "Alimento": "Vegetales verdes",
+     "IG": 15
+    },
+    {
+     "Alimento": "Risotto",
+     "IG": 113
+    },
+    {
+     "Alimento": "Jarabe de maíz",
+     "IG": 110
+    },
+    {
+     "Alimento": "Cerveza",
+     "IG": 110
+    },
+    {
+     "Alimento": "Glucosa",
+     "IG": 100
+    },
+    {
+     "Alimento": "Patatas chips",
+     "IG": 98
+    },
+    {
+     "Alimento": "Patatas salteadas",
+     "IG": 95
+    },
+    {
+     "Alimento": "Patatas fritas",
+     "IG": 95
+    },
+    {
+     "Alimento": "Fécula de patata-almidón",
+     "IG": 95
+    },
+    {
+     "Alimento": "Harina de arroz",
+     "IG": 95
+    },
+    {
+     "Alimento": "Patatas al horno con piel",
+     "IG": 90
+    },
+    {
+     "Alimento": "Arroz caldoso",
+     "IG": 90
+    },
+    {
+     "Alimento": "Zumo de frutas con azúcar",
+     "IG": 90
+    },
+    {
+     "Alimento": "Chirivias",
+     "IG": 85
+    },
+    {
+     "Alimento": "Zanahorias cocidas",
+     "IG": 85
+    },
+    {
+     "Alimento": "Nabo cocido",
+     "IG": 85
+    },
+    {
+     "Alimento": "Arroz instantáneo",
+     "IG": 85
+    },
+    {
+     "Alimento": "Harina blanca de trigo",
+     "IG": 85
+    },
+    {
+     "Alimento": "Tapioca",
+     "IG": 85
+    },
+    {
+     "Alimento": "Pretzel",
+     "IG": 85
+    },
+    {
+     "Alimento": "Panecillo hamburguesa",
+     "IG": 85
+    },
+    {
+     "Alimento": "Pan blanco",
+     "IG": 85
+    },
+    {
+     "Alimento": "Palomitas de maíz",
+     "IG": 85
+    },
+    {
+     "Alimento": "Copos de maíz",
+     "IG": 85
+    },
+    {
+     "Alimento": "Arroz inflado",
+     "IG": 85
+    },
+    {
+     "Alimento": "Galletas saladas",
+     "IG": 85
+    },
+    {
+     "Alimento": "Puré de patata",
+     "IG": 80
+    },
+    {
+     "Alimento": "Copos de arroz",
+     "IG": 80
+    },
+    {
+     "Alimento": "Pan rallado para rebozar",
+     "IG": 80
+    },
+    {
+     "Alimento": "Gominolas",
+     "IG": 80
+    },
+    {
+     "Alimento": "Helado de cucurucho",
+     "IG": 80
+    },
+    {
+     "Alimento": "Bebidas isotónicas",
+     "IG": 80
+    },
+    {
+     "Alimento": "Calabaza",
+     "IG": 75
+    },
+    {
+     "Alimento": "Maíz",
+     "IG": 75
+    },
+    {
+     "Alimento": "Pan de molde",
+     "IG": 75
+    },
+    {
+     "Alimento": "Bollos blancos",
+     "IG": 75
+    },
+    {
+     "Alimento": "Donuts (Doughnuts)",
+     "IG": 75
+    },
+    {
+     "Alimento": "Arroz con leche",
+     "IG": 75
+    },
+    {
+     "Alimento": "Miel",
+     "IG": 75
+    },
+    {
+     "Alimento": "Galletas comunes",
+     "IG": 75
+    },
+    {
+     "Alimento": "Galletas Graham",
+     "IG": 75
+    },
+    {
+     "Alimento": "Rosca blanca",
+     "IG": 75
+    },
+    {
+     "Alimento": "Pastas con levadura",
+     "IG": 72
+    },
+    {
+     "Alimento": "Sandía",
+     "IG": 70
+    },
+    {
+     "Alimento": "Plátano verde",
+     "IG": 70
+    },
+    {
+     "Alimento": "Dátil",
+     "IG": 70
+    },
+    {
+     "Alimento": "Colinabo",
+     "IG": 70
+    },
+    {
+     "Alimento": "Ñoquis",
+     "IG": 70
+    },
+    {
+     "Alimento": "Patatas cocidas",
+     "IG": 70
+    },
+    {
+     "Alimento": "Patatas cocidas con piel",
+     "IG": 70
+    },
+    {
+     "Alimento": "Fideos de huevo",
+     "IG": 70
+    },
+    {
+     "Alimento": "Arroz blanco",
+     "IG": 70
+    },
+    {
+     "Alimento": "Baguette -pan francés blanco",
+     "IG": 70
+    },
+    {
+     "Alimento": "Bagels",
+     "IG": 70
+    },
+    {
+     "Alimento": "Croisants",
+     "IG": 70
+    },
+    {
+     "Alimento": "Brioche",
+     "IG": 70
+    },
+    {
+     "Alimento": "Media luna",
+     "IG": 70
+    },
+    {
+     "Alimento": "Harina de maíz",
+     "IG": 70
+    },
+    {
+     "Alimento": "Mijo",
+     "IG": 70
+    },
+    {
+     "Alimento": "Polenta",
+     "IG": 70
+    },
+    {
+     "Alimento": "Cereales refinados",
+     "IG": 70
+    },
+    {
+     "Alimento": "Musli azucarado",
+     "IG": 70
+    },
+    {
+     "Alimento": "Azúcar refinado",
+     "IG": 70
+    },
+    {
+     "Alimento": "Azúcar moreno",
+     "IG": 70
+    },
+    {
+     "Alimento": "Croisant",
+     "IG": 70
+    },
+    {
+     "Alimento": "Barrita de chocolate",
+     "IG": 70
+    },
+    {
+     "Alimento": "Chocolate con leche",
+     "IG": 70
+    },
+    {
+     "Alimento": "Limonada",
+     "IG": 70
+    },
+    {
+     "Alimento": "Bebidas de cola",
+     "IG": 70
+    },
+    {
+     "Alimento": "Melón amarillo",
+     "IG": 65
+    },
+    {
+     "Alimento": "Pasas",
+     "IG": 65
+    },
+    {
+     "Alimento": "Remolacha roja",
+     "IG": 65
+    },
+    {
+     "Alimento": "Maíz en grano para ensaladas",
+     "IG": 65
+    },
+    {
+     "Alimento": "Habas cocidas",
+     "IG": 65
+    },
+    {
+     "Alimento": "Pasta común",
+     "IG": 65
+    },
+    {
+     "Alimento": "Tallarines chinos de arroz",
+     "IG": 65
+    },
+    {
+     "Alimento": "Harina de espelta",
+     "IG": 65
+    },
+    {
+     "Alimento": "Pan integral de trigo",
+     "IG": 65
+    },
+    {
+     "Alimento": "Pan semi-integral",
+     "IG": 65
+    },
+    {
+     "Alimento": "Pan negro",
+     "IG": 65
+    },
+    {
+     "Alimento": "Bizcocho de trigo integral",
+     "IG": 65
+    },
+    {
+     "Alimento": "Cereales mixtos",
+     "IG": 65
+    },
+    {
+     "Alimento": "Galletas de trigo",
+     "IG": 65
+    },
+    {
+     "Alimento": "Bizcochos de trigo integral",
+     "IG": 65
+    },
+    {
+     "Alimento": "Galletas de trigo",
+     "IG": 65
+    },
+    {
+     "Alimento": "Mermelada (con azúcar)",
+     "IG": 65
+    },
+    {
+     "Alimento": "Sorbete\/helado",
+     "IG": 65
+    },
+    {
+     "Alimento": "Dulce de membrillo con azúcar",
+     "IG": 65
+    },
+    {
+     "Alimento": "Jarabe de arce",
+     "IG": 65
+    },
+    {
+     "Alimento": "Panela",
+     "IG": 65
+    },
+    {
+     "Alimento": "Magdalenas",
+     "IG": 62
+    },
+    {
+     "Alimento": "Castaña",
+     "IG": 60
+    },
+    {
+     "Alimento": "Arroz basmati",
+     "IG": 60
+    },
+    {
+     "Alimento": "Spaghetis blancos",
+     "IG": 60
+    },
+    {
+     "Alimento": "Cuscús",
+     "IG": 60
+    },
+    {
+     "Alimento": "Raviolis trigo duro",
+     "IG": 60
+    },
+    {
+     "Alimento": "Sémola de trigo duro",
+     "IG": 60
+    },
+    {
+     "Alimento": "Harina trigo completa",
+     "IG": 60
+    },
+    {
+     "Alimento": "Pizza",
+     "IG": 60
+    },
+    {
+     "Alimento": "Pan de leche",
+     "IG": 60
+    },
+    {
+     "Alimento": "Porridge de avena",
+     "IG": 60
+    },
+    {
+     "Alimento": "Helado crema con azúcar o edulcorante",
+     "IG": 60
+    },
+    {
+     "Alimento": "Fruta en bote con azúcar",
+     "IG": 60
+    },
+    {
+     "Alimento": "Crema helada",
+     "IG": 60
+    },
+    {
+     "Alimento": "Mahonesa industrial",
+     "IG": 60
+    },
+    {
+     "Alimento": "Papaya",
+     "IG": 58
+    },
+    {
+     "Alimento": "Fruta en conserva",
+     "IG": 55
+    },
+    {
+     "Alimento": "Níspero japonés",
+     "IG": 55
+    },
+    {
+     "Alimento": "Ketchup",
+     "IG": 55
+    },
+    {
+     "Alimento": "Yuca",
+     "IG": 55
+    },
+    {
+     "Alimento": "Boniato",
+     "IG": 55
+    },
+    {
+     "Alimento": "Arroz silvestre",
+     "IG": 55
+    },
+    {
+     "Alimento": "Arroz moreno",
+     "IG": 55
+    },
+    {
+     "Alimento": "Cereal de arroz",
+     "IG": 55
+    },
+    {
+     "Alimento": "Pan pita",
+     "IG": 55
+    },
+    {
+     "Alimento": "Levadura de centeno",
+     "IG": 55
+    },
+    {
+     "Alimento": "Avena",
+     "IG": 55
+    },
+    {
+     "Alimento": "Cereal de arroz",
+     "IG": 55
+    },
+    {
+     "Alimento": "Musli sin azúcar",
+     "IG": 55
+    },
+    {
+     "Alimento": "Galletas de mantequilla",
+     "IG": 55
+    },
+    {
+     "Alimento": "Polvorón con azúcar",
+     "IG": 55
+    },
+    {
+     "Alimento": "Nutella",
+     "IG": 55
+    },
+    {
+     "Alimento": "Mango",
+     "IG": 50
+    },
+    {
+     "Alimento": "Kiwi",
+     "IG": 50
+    },
+    {
+     "Alimento": "Kaki-Caqui",
+     "IG": 50
+    },
+    {
+     "Alimento": "Lichi fresco",
+     "IG": 50
+    },
+    {
+     "Alimento": "Ñame",
+     "IG": 50
+    },
+    {
+     "Alimento": "Arroz integral",
+     "IG": 50
+    },
+    {
+     "Alimento": "Pan de centeno integral",
+     "IG": 50
+    },
+    {
+     "Alimento": "Pan de bulgur",
+     "IG": 50
+    },
+    {
+     "Alimento": "Pan con alto porcentaje de trigo triturado",
+     "IG": 50
+    },
+    {
+     "Alimento": "Pan de avena y salvado",
+     "IG": 50
+    },
+    {
+     "Alimento": "Zumo de piña sin azúcar",
+     "IG": 50
+    },
+    {
+     "Alimento": "Zumo de manzana sin azúcar",
+     "IG": 50
+    },
+    {
+     "Alimento": "Zumo de arándano sin azúcar",
+     "IG": 50
+    },
+    {
+     "Alimento": "Piña fresca",
+     "IG": 45
+    },
+    {
+     "Alimento": "Uva",
+     "IG": 45
+    },
+    {
+     "Alimento": "Pera",
+     "IG": 45
+    },
+    {
+     "Alimento": "Plátano crudo",
+     "IG": 45
+    },
+    {
+     "Alimento": "Arándano agrio",
+     "IG": 45
+    },
+    {
+     "Alimento": "Tomate frito",
+     "IG": 45
+    },
+    {
+     "Alimento": "Guisantes",
+     "IG": 45
+    },
+    {
+     "Alimento": "Pasta integral",
+     "IG": 45
+    },
+    {
+     "Alimento": "Pan integral tostado",
+     "IG": 45
+    },
+    {
+     "Alimento": "Pastel\/torta",
+     "IG": 45
+    },
+    {
+     "Alimento": "Trigo en grano",
+     "IG": 45
+    },
+    {
+     "Alimento": "Cebada en grano",
+     "IG": 45
+    },
+    {
+     "Alimento": "Harina integral centeno",
+     "IG": 45
+    },
+    {
+     "Alimento": "Zumo de naranja sin azúcar",
+     "IG": 45
+    },
+    {
+     "Alimento": "Higo seco",
+     "IG": 40
+    },
+    {
+     "Alimento": "Ciruela secas",
+     "IG": 40
+    },
+    {
+     "Alimento": "Melocotón",
+     "IG": 40
+    },
+    {
+     "Alimento": "Manzana",
+     "IG": 40
+    },
+    {
+     "Alimento": "Naranja zumo recién exprimido",
+     "IG": 40
+    },
+    {
+     "Alimento": "Judías secas",
+     "IG": 40
+    },
+    {
+     "Alimento": "Lentejas",
+     "IG": 40
+    },
+    {
+     "Alimento": "Habas verdes",
+     "IG": 40
+    },
+    {
+     "Alimento": "Spagheti integral",
+     "IG": 40
+    },
+    {
+     "Alimento": "Copos de avena",
+     "IG": 40
+    },
+    {
+     "Alimento": "Pasta de trigo integral",
+     "IG": 40
+    },
+    {
+     "Alimento": "Harina de quinoa",
+     "IG": 40
+    },
+    {
+     "Alimento": "Crepes integrales",
+     "IG": 40
+    },
+    {
+     "Alimento": "Sidra seca",
+     "IG": 40
+    },
+    {
+     "Alimento": "Leche de coco",
+     "IG": 40
+    },
+    {
+     "Alimento": "Naranja",
+     "IG": 35
+    },
+    {
+     "Alimento": "Granada fresca",
+     "IG": 35
+    },
+    {
+     "Alimento": "Ciruelas frescas",
+     "IG": 35
+    },
+    {
+     "Alimento": "Nectarina fresca",
+     "IG": 35
+    },
+    {
+     "Alimento": "Chirimoya",
+     "IG": 35
+    },
+    {
+     "Alimento": "Membrillo",
+     "IG": 35
+    },
+    {
+     "Alimento": "Coco",
+     "IG": 35
+    },
+    {
+     "Alimento": "Tomates secos",
+     "IG": 35
+    },
+    {
+     "Alimento": "Higo fresco",
+     "IG": 35
+    },
+    {
+     "Alimento": "Garbanzos",
+     "IG": 35
+    },
+    {
+     "Alimento": "Arroz salvaje",
+     "IG": 35
+    },
+    {
+     "Alimento": "Amaranto",
+     "IG": 35
+    },
+    {
+     "Alimento": "Harina de garbanzo",
+     "IG": 35
+    },
+    {
+     "Alimento": "Centeno en grano",
+     "IG": 35
+    },
+    {
+     "Alimento": "Pan integral",
+     "IG": 35
+    },
+    {
+     "Alimento": "Mostaza",
+     "IG": 35
+    },
+    {
+     "Alimento": "Linaza (semillas)",
+     "IG": 35
+    },
+    {
+     "Alimento": "Compota de manzana sin azúcar",
+     "IG": 35
+    },
+    {
+     "Alimento": "Manzanas secas",
+     "IG": 35
+    },
+    {
+     "Alimento": "Zumo de tomate",
+     "IG": 35
+    },
+    {
+     "Alimento": "Yogur con fruta",
+     "IG": 35
+    },
+    {
+     "Alimento": "Albaricoque seco",
+     "IG": 30
+    },
+    {
+     "Alimento": "Pomelo",
+     "IG": 30
+    },
+    {
+     "Alimento": "Judías negras",
+     "IG": 30
+    },
+    {
+     "Alimento": "Frijol",
+     "IG": 30
+    },
+    {
+     "Alimento": "Zanahorias crudas",
+     "IG": 30
+    },
+    {
+     "Alimento": "Nata",
+     "IG": 30
+    },
+    {
+     "Alimento": "Leche entera",
+     "IG": 30
+    },
+    {
+     "Alimento": "Leche desnatada",
+     "IG": 30
+    },
+    {
+     "Alimento": "Leche de avena",
+     "IG": 30
+    },
+    {
+     "Alimento": "Leche de soja",
+     "IG": 30
+    },
+    {
+     "Alimento": "Leche de almendra",
+     "IG": 30
+    },
+    {
+     "Alimento": "Requesón",
+     "IG": 30
+    },
+    {
+     "Alimento": "Mandarinas-clementinas",
+     "IG": 30
+    },
+    {
+     "Alimento": "Tomates",
+     "IG": 30
+    },
+    {
+     "Alimento": "Garbanzos",
+     "IG": 30
+    },
+    {
+     "Alimento": "Ajo",
+     "IG": 30
+    },
+    {
+     "Alimento": "Albaricoque fresco",
+     "IG": 30
+    },
+    {
+     "Alimento": "Mermelada sin azúcar",
+     "IG": 30
+    },
+    {
+     "Alimento": "Cereza",
+     "IG": 25
+    },
+    {
+     "Alimento": "Chocolate negro 70%",
+     "IG": 25
+    },
+    {
+     "Alimento": "Guisantes secos",
+     "IG": 25
+    },
+    {
+     "Alimento": "Frambuesa fresca",
+     "IG": 25
+    },
+    {
+     "Alimento": "Puré de almendras sin azúcar",
+     "IG": 25
+    },
+    {
+     "Alimento": "Hummus -puré de garbanzos",
+     "IG": 25
+    },
+    {
+     "Alimento": "Moras",
+     "IG": 25
+    },
+    {
+     "Alimento": "Arándanos frescos",
+     "IG": 25
+    },
+    {
+     "Alimento": "Grosella blanca",
+     "IG": 25
+    },
+    {
+     "Alimento": "Grosella roja",
+     "IG": 25
+    },
+    {
+     "Alimento": "Fresas",
+     "IG": 25
+    },
+    {
+     "Alimento": "Pipas calabaza",
+     "IG": 25
+    },
+    {
+     "Alimento": "Cerezas",
+     "IG": 25
+    },
+    {
+     "Alimento": "Guisantes secos partidos",
+     "IG": 25
+    },
+    {
+     "Alimento": "Bayas de goji",
+     "IG": 25
+    },
+    {
+     "Alimento": "Zumo de limón sin azúcar",
+     "IG": 20
+    },
+    {
+     "Alimento": "Berenjena",
+     "IG": 20
+    },
+    {
+     "Alimento": "Alcachofa",
+     "IG": 20
+    },
+    {
+     "Alimento": "Acerola",
+     "IG": 20
+    },
+    {
+     "Alimento": "Salsa tamari sin dulce",
+     "IG": 20
+    },
+    {
+     "Alimento": "Zanahoria cruda",
+     "IG": 20
+    },
+    {
+     "Alimento": "Cacao en polvo sin azúcar",
+     "IG": 20
+    },
+    {
+     "Alimento": "Chocolate negro 80%",
+     "IG": 20
+    },
+    {
+     "Alimento": "Chocolate amargo negro 85%",
+     "IG": 20
+    },
+    {
+     "Alimento": "Tomate",
+     "IG": 15
+    },
+    {
+     "Alimento": "Cacahuete",
+     "IG": 15
+    },
+    {
+     "Alimento": "Soja",
+     "IG": 15
+    },
+    {
+     "Alimento": "Bróculi",
+     "IG": 15
+    },
+    {
+     "Alimento": "Col lombarda",
+     "IG": 15
+    },
+    {
+     "Alimento": "Berenjena",
+     "IG": 15
+    },
+    {
+     "Alimento": "Calabacín",
+     "IG": 15
+    },
+    {
+     "Alimento": "Yogur sin agregados, sin azúcar",
+     "IG": 15
+    },
+    {
+     "Alimento": "Aceitunas",
+     "IG": 15
+    },
+    {
+     "Alimento": "Almendras",
+     "IG": 15
+    },
+    {
+     "Alimento": "Avellanas",
+     "IG": 15
+    },
+    {
+     "Alimento": "Cebolla",
+     "IG": 15
+    },
+    {
+     "Alimento": "Coliflor",
+     "IG": 15
+    },
+    {
+     "Alimento": "Bróculi",
+     "IG": 15
+    },
+    {
+     "Alimento": "Repollo",
+     "IG": 15
+    },
+    {
+     "Alimento": "Lechuga",
+     "IG": 15
+    },
+    {
+     "Alimento": "Acelgas",
+     "IG": 15
+    },
+    {
+     "Alimento": "Espinacas",
+     "IG": 15
+    },
+    {
+     "Alimento": "Espárragos",
+     "IG": 15
+    },
+    {
+     "Alimento": "Pepinos",
+     "IG": 15
+    },
+    {
+     "Alimento": "Setas, champiñones",
+     "IG": 15
+    },
+    {
+     "Alimento": "Soja",
+     "IG": 15
+    },
+    {
+     "Alimento": "tofu",
+     "IG": 15
+    },
+    {
+     "Alimento": "Jengibre",
+     "IG": 15
+    },
+    {
+     "Alimento": "Fisalis-alquejenje",
+     "IG": 15
+    },
+    {
+     "Alimento": "Rábano",
+     "IG": 15
+    },
+    {
+     "Alimento": "Judías verdes",
+     "IG": 15
+    },
+    {
+     "Alimento": "Coles de bruselas",
+     "IG": 15
+    },
+    {
+     "Alimento": "Endibias",
+     "IG": 15
+    },
+    {
+     "Alimento": "Hinojo",
+     "IG": 15
+    },
+    {
+     "Alimento": "Apio",
+     "IG": 15
+    },
+    {
+     "Alimento": "Brotes de semillas",
+     "IG": 15
+    },
+    {
+     "Alimento": "Chile, pimiento picante",
+     "IG": 15
+    },
+    {
+     "Alimento": "Pistacho",
+     "IG": 15
+    },
+    {
+     "Alimento": "Anacardos",
+     "IG": 15
+    },
+    {
+     "Alimento": "Nueces",
+     "IG": 15
+    },
+    {
+     "Alimento": "Piñón",
+     "IG": 15
+    },
+    {
+     "Alimento": "Cacahuetes",
+     "IG": 15
+    },
+    {
+     "Alimento": "Salvado de trigo, de avena",
+     "IG": 15
+    },
+    {
+     "Alimento": "Pimientos rojos",
+     "IG": 15
+    },
+    {
+     "Alimento": "Calabacín",
+     "IG": 15
+    },
+    {
+     "Alimento": "Puerros",
+     "IG": 15
+    },
+    {
+     "Alimento": "Col fermentada-chucrut",
+     "IG": 15
+    },
+    {
+     "Alimento": "Grosella negra",
+     "IG": 15
+    },
+    {
+     "Alimento": "Pepinillo",
+     "IG": 15
+    },
+    {
+     "Alimento": "Tempeh",
+     "IG": 15
+    },
+    {
+     "Alimento": "Garrofín (semillas algarroba)",
+     "IG": 15
+    },
+    {
+     "Alimento": "Albaricoque fresco",
+     "IG": 10
+    },
+    {
+     "Alimento": "Aguacate",
+     "IG": 10
+    },
+    {
+     "Alimento": "Crustáceos",
+     "IG": 5
+    },
+    {
+     "Alimento": "Hierbas aromáticas",
+     "IG": 5
+    },
+    {
+     "Alimento": "Especias condimento",
+     "IG": 5
+    },
+    {
+     "Alimento": "Vinagre",
+     "IG": 5
+    },
+    {
+     "Alimento": "Vinagre balsámico",
+     "IG": 5
+    },
+    {
+     "Alimento": "Aceite de oliva",
+     "IG": 0
+    },
+    {
+     "Alimento": "Huevo",
+     "IG": 0
+    },
+    {
+     "Alimento": "Mahonesa casera",
+     "IG": 0
+    },
+    {
+     "Alimento": "Quesos",
+     "IG": 0
+    },
+    {
+     "Alimento": "Foie gras",
+     "IG": 0
+    },
+    {
+     "Alimento": "Pescado, salmón, atún, etc",
+     "IG": 0
+    },
+    {
+     "Alimento": "Carnes",
+     "IG": 0
+    },
+    {
+     "Alimento": "Embutidos",
+     "IG": 0
+    },
+    {
+     "Alimento": "Marisco",
+     "IG": 0
+    },
+    {
+     "Alimento": "Mahonesa en casa, huevo, aceite",
+     "IG": 0
+    },
+    {
+     "Alimento": "Café, té",
+     "IG": 0
+    },
+    {
+     "Alimento": "Aves, pollo, pavo, etc",
+     "IG": 0
+    },
+    {
+     "Alimento": "Salsa de soja",
+     "IG": 0
+    }
+   ]
+
+

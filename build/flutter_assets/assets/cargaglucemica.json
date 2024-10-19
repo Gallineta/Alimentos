@@ -1,0 +1,1702 @@
+[
+    {
+     "ALIMENTO": "Cuajada",
+     "HC": 6.5,
+     "IG": 35,
+     "CG": 2.3,
+     "NOTAS": "Evita su consumo por su contenido en azúcares y grasas."
+    },
+    {
+     "ALIMENTO": "Helado de crema",
+     "HC": 21,
+     "IG": 60,
+     "CG": 12.6,
+     "NOTAS": "Evita su consumo, elige opciones de yogurt."
+    },
+    {
+     "ALIMENTO": "Helado de yogurt",
+     "HC": 11.3,
+     "IG": 35,
+     "CG": 3.95,
+     "NOTAS": "Combínalo con una fruta baja en IG o frutos secos como nueces o almendras."
+    },
+    {
+     "ALIMENTO": "Kéfir",
+     "HC": 4.8,
+     "IG": 35,
+     "CG": 1.7,
+     "NOTAS": "Sus probióticos mejoran la función intestinal."
+    },
+    {
+     "ALIMENTO": "Leche desnatada",
+     "HC": 5,
+     "IG": 37,
+     "CG": 1.85,
+     "NOTAS": "Elige preferentemente los lácteos enteros, pues su IG es menor."
+    },
+    {
+     "ALIMENTO": "Leche en polvo",
+     "HC": 38.1,
+     "IG": 30,
+     "CG": 11.43,
+     "NOTAS": "Evita su consumo con regularidad."
+    },
+    {
+     "ALIMENTO": "Leche entera",
+     "HC": 5,
+     "IG": 35,
+     "CG": 1.95,
+     "NOTAS": "Prefiere su consumo en lugar lácteos desnatados o light."
+    },
+    {
+     "ALIMENTO": "Leche semidesnatada",
+     "HC": 5,
+     "IG": 35,
+     "CG": 1.75
+    },
+    {
+     "ALIMENTO": "Bebida de almendra",
+     "HC": 3,
+     "IG": 30,
+     "CG": 0.9,
+     "NOTAS": "Verifica que no contenga azúcares añadidos."
+    },
+    {
+     "ALIMENTO": "Bebida de almendra (sin azúcares añadidos)",
+     "HC": 0.2,
+     "IG": 30,
+     "CG": 0.06,
+     "NOTAS": "Aunque es una opción para dietas veganas, su contenido en almendra es muy bajo (3-4%)."
+    },
+    {
+     "ALIMENTO": "Bebida de arroz",
+     "HC": 11.2,
+     "IG": 85,
+     "CG": 9.5,
+     "NOTAS": "Por su contenido de hidratos de carbono con alto IG, no es una bebida recomendable."
+    },
+    {
+     "ALIMENTO": "Bebida de avena",
+     "HC": 8,
+     "IG": 30,
+     "CG": 2.4,
+     "NOTAS": "Puedes hacerla de forma casera con copos de avena, agua y canela."
+    },
+    {
+     "ALIMENTO": "Bebida de coco (sin azúcares añadidos)",
+     "HC": 2.7,
+     "IG": 40,
+     "CG": 2.4,
+     "NOTAS": "Es una opción para dietas veganas. Modera su consumo y revisa que contenga coco y no sabor a coco."
+    },
+    {
+     "ALIMENTO": "Bebida de soja",
+     "HC": 5,
+     "IG": 34,
+     "CG": 1.7,
+     "NOTAS": "Consultar su consumo en niñas\/os por la acción estrogénica de la soja."
+    },
+    {
+     "ALIMENTO": "Leche de cabra",
+     "HC": 4.3,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "Contenido de proteínas mayor al de la leche de vaca."
+    },
+    {
+     "ALIMENTO": "Leche sin lactosa",
+     "HC": 4.5,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "Verifica si no contiene más azúcares añadidos que la entera con lactosa."
+    },
+    {
+     "ALIMENTO": "Nata para cocinar",
+     "HC": 4.4,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "Lee el etiquetado, en ocasiones contienen féculas o harinas."
+    },
+    {
+     "ALIMENTO": "Nata para\ncocinar ligera",
+     "HC": 8,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "Lee el etiquetado, en ocasiones contienen féculas o harinas."
+    },
+    {
+     "ALIMENTO": "Queso tipo Burgos",
+     "HC": 2.5,
+     "IG": 30,
+     "CG": 0.8,
+     "NOTAS": "Buena opción para cenas o tentempiés. Incluso en algunos desayunos con frutas bajas en IG."
+    },
+    {
+     "ALIMENTO": "Quesos de pasta semis y curados",
+     "HC": 0,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "Elige quesos bajos en grasa y ricos en proteínas."
+    },
+    {
+     "ALIMENTO": "Yogur desnatado sabores o fruta",
+     "HC": 8,
+     "IG": 35,
+     "CG": 2.8,
+     "NOTAS": "Prefiere lácteos enteros sin fruta. La fruta puedes añadirla tú."
+    },
+    {
+     "ALIMENTO": "Yogurt entero sabores o fruta",
+     "HC": 14.28,
+     "IG": 35,
+     "CG": 5,
+     "NOTAS": "Puedes combinar su consumo con frutos secos."
+    },
+    {
+     "ALIMENTO": "Yogurt líquido",
+     "HC": 14.8,
+     "IG": 40,
+     "CG": 6.92,
+     "NOTAS": "El yogurt contiene probióticos que favorecen la salud intestinal."
+    },
+    {
+     "ALIMENTO": "Yogurt natural entero o desnatado",
+     "HC": 5,
+     "IG": 35,
+     "CG": 1.75,
+     "NOTAS": "Prefiere lácteos enteros."
+    },
+    {
+     "ALIMENTO": "Yogurt de soja",
+     "HC": 8.6,
+     "IG": 50,
+     "CG": 4.3,
+     "NOTAS": "Verifica en el etiquetado su contenido de azúcares."
+    },
+    {
+     "ALIMENTO": "Yogur de soja\n0%",
+     "HC": 2.3,
+     "IG": 20,
+     "CG": 0.46,
+     "NOTAS": "Evitar su consumo regular."
+    },
+    {
+     "ALIMENTO": "Yogurt con fruta",
+     "HC": 0,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "*Esta información es de un yogurt sin azúcar ni edulcorantes."
+    },
+    {
+     "ALIMENTO": "Skyr (queso islandés)",
+     "HC": 4,
+     "IG": 30,
+     "CG": 1,
+     "NOTAS": "Alimento lácteo fermentado con aporte equilibrado de proteínas-grasas-hidratos de carbono. Puede ser una alternativa en desayunos, cenas o tentempiés"
+    },
+    {
+     "ALIMENTO": "Kvarg\n(Queso Quark)",
+     "HC": 3.4,
+     "IG": 30,
+     "CG": 1,
+     "NOTAS": "Rico en proteínas. Puede ser una alternativa en desayunos, cenas o tentempiés"
+    },
+    {
+     "ALIMENTO": "Queso batido 0% grasa",
+     "HC": 4,
+     "IG": 30,
+     "CG": 1,
+     "NOTAS": "Rico en proteínas. Puede ser una alternativa en desayunos, cenas o tentempiés"
+    },
+    {
+     "ALIMENTO": "Amaranto crudo",
+     "HC": 62.5,
+     "IG": 35,
+     "CG": 22.8,
+     "NOTAS": "Rico en aminoácidos, vitaminas y minerales. Pseudo cereal sin gluten."
+    },
+    {
+     "ALIMENTO": "Amaranto hinchado",
+     "HC": 56.8,
+     "IG": 70,
+     "CG": 39.7,
+     "NOTAS": "Muy ligero en peso. Modera su consumo."
+    },
+    {
+     "ALIMENTO": "Arroz inflado",
+     "HC": 89.7,
+     "IG": 85,
+     "CG": 76.2,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Arroz integral crudo",
+     "HC": 74.1,
+     "IG": 50,
+     "CG": 37.1,
+     "NOTAS": "Comprueba que el etiquetado diga arroz integral."
+    },
+    {
+     "ALIMENTO": "Arroz integral cocido",
+     "HC": 23,
+     "IG": 50,
+     "CG": 11.5,
+     "NOTAS": "Rico en fibra, combínalo con legumbres y vegetales."
+    },
+    {
+     "ALIMENTO": "Arroz salvaje crudo",
+     "HC": 60.2,
+     "IG": 35,
+     "CG": 21.1,
+     "NOTAS": "Pseudoarroz, muy rico en fibra y buen sabor."
+    },
+    {
+     "ALIMENTO": "Arroz salvaje cocido",
+     "HC": 29.4,
+     "IG": 35,
+     "CG": 10.3,
+     "NOTAS": "Su cocción es más lenta que el arroz normal"
+    },
+    {
+     "ALIMENTO": "Arroz basmati blanco",
+     "HC": 76.3,
+     "IG": 50,
+     "CG": 38.2,
+     "NOTAS": "Mezcla su preparación con vegetales o legumbres."
+    },
+    {
+     "ALIMENTO": "Arroz basmati integral",
+     "HC": 82,
+     "IG": 50,
+     "CG": 41,
+     "NOTAS": "Buena fuente de fibra."
+    },
+    {
+     "ALIMENTO": "Arroz blanco",
+     "HC": 81.6,
+     "IG": 70,
+     "CG": 57.1,
+     "NOTAS": "Evita su consumo"
+    },
+    {
+     "ALIMENTO": "Arroz blanco precocido o de cocción rápida",
+     "HC": 78.2,
+     "IG": 85,
+     "CG": 66.5,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Arroz negro o nerone",
+     "HC": 67.6,
+     "IG": 45,
+     "CG": 30.4,
+     "NOTAS": "Alto en fibra, de cocción lenta."
+    },
+    {
+     "ALIMENTO": "Arroz Rojo",
+     "HC": 80,
+     "IG": 55,
+     "CG": 44,
+     "NOTAS": "De cocción lenta, rico en fibra. Aporta sensación de saciedad."
+    },
+    {
+     "ALIMENTO": "Avena",
+     "HC": 66.5,
+     "IG": 40,
+     "CG": 26.6,
+     "NOTAS": "Puedes consumirla en el yogurt o con fruta."
+    },
+    {
+     "ALIMENTO": "Avena (copos)",
+     "HC": 55.7,
+     "IG": 40,
+     "CG": 22.3,
+     "NOTAS": "Buena fuente de fibra soluble."
+    },
+    {
+     "ALIMENTO": "Copos de avena cocida",
+     "HC": 55.7,
+     "IG": 60,
+     "CG": 33.4,
+     "NOTAS": "Su fibra y ácido linoleico favorece el tránsito intestinal."
+    },
+    {
+     "ALIMENTO": "Avena (salvado)",
+     "HC": 58.9,
+     "IG": 15,
+     "CG": 8.8,
+     "NOTAS": "Puedes agregar a recetas de repostería."
+    },
+    {
+     "ALIMENTO": "Boniato",
+     "HC": 24,
+     "IG": 50,
+     "CG": 12,
+     "NOTAS": "Rico en betacarotenos. Favorece la salud de la vista."
+    },
+    {
+     "ALIMENTO": "Cebada cruda",
+     "HC": 71.4,
+     "IG": 27,
+     "CG": 19.3,
+     "NOTAS": "Alto contenido de fibra."
+    },
+    {
+     "ALIMENTO": "Cebada cocida",
+     "HC": 26.3,
+     "IG": 45,
+     "CG": 11.8,
+     "NOTAS": "Puedes integrarla a algún postre o galletas caseras."
+    },
+    {
+     "ALIMENTO": "Centeno crudo",
+     "HC": 66.6,
+     "IG": 15,
+     "CG": 10,
+     "NOTAS": "El centeno es rico en ácido linoleico."
+    },
+    {
+     "ALIMENTO": "Centeno cocido",
+     "HC": 26.3,
+     "IG": 15,
+     "CG": 3.9,
+     "NOTAS": "Mejora la digestión."
+    },
+    {
+     "ALIMENTO": "Cereales industriales nazucarados",
+     "HC": 66.6,
+     "IG": 70,
+     "CG": 46.6,
+     "NOTAS": "Evita su consumo"
+    },
+    {
+     "ALIMENTO": "Cereales industriales con fibra",
+     "HC": 50,
+     "IG": 50,
+     "CG": 25,
+     "NOTAS": "Preferir copos de avena o combinarlos."
+    },
+    {
+     "ALIMENTO": "Cuscús cocido",
+     "HC": 15.3,
+     "IG": 65,
+     "CG": 10,
+     "NOTAS": "Prepáralo con verduras y proteínas"
+    },
+    {
+     "ALIMENTO": "Cuscús crudo",
+     "HC": 66.6,
+     "IG": 65,
+     "CG": 43.3
+    },
+    {
+     "ALIMENTO": "Cuscús integral (crudo)",
+     "HC": 62.2,
+     "IG": 45,
+     "CG": 27.9,
+     "NOTAS": "Comprueba que el etiquetado diga trigo integral."
+    },
+    {
+     "ALIMENTO": "Fideos de arroz (crudo)",
+     "HC": 80,
+     "IG": 60,
+     "CG": 48.4
+    },
+    {
+     "ALIMENTO": "Fideos de arroz cocido",
+     "HC": 20,
+     "IG": 50,
+     "CG": 10,
+     "NOTAS": "Combina su preparación con verduras y proteínas."
+    },
+    {
+     "ALIMENTO": "Fideos de soja",
+     "HC": 25,
+     "IG": 50,
+     "CG": 12.5,
+     "NOTAS": "Combina su preparación con verduras y proteínas."
+    },
+    {
+     "ALIMENTO": "Galleta sin azúcar",
+     "HC": 55.5,
+     "IG": 50,
+     "CG": 27.7,
+     "NOTAS": "Evita el consumo de galletas industriales."
+    },
+    {
+     "ALIMENTO": "Galleta tipo digestiva",
+     "HC": 62.5,
+     "IG": 65,
+     "CG": 40.6,
+     "NOTAS": "Haz tus galletas en casa con harinas bajas en IG como avena, centeno o espelta."
+    },
+    {
+     "ALIMENTO": "Galleta tipo María",
+     "HC": 66.6,
+     "IG": 70,
+     "CG": 46.6,
+     "NOTAS": "Contiene aceite de palma, la cual no favorece la salud cardiovascular."
+    },
+    {
+     "ALIMENTO": "Galleta tipo príncipe",
+     "HC": 71.4,
+     "IG": 70,
+     "CG": 50,
+     "NOTAS": "Son altas en grasas trans y azúcares refinados."
+    },
+    {
+     "ALIMENTO": "Galleta de espelta",
+     "HC": 67,
+     "IG": 45,
+     "CG": 30,
+     "NOTAS": "Lee el etiquetado para comprobar ingredientes y contenido."
+    },
+    {
+     "ALIMENTO": "Galleta de avena",
+     "HC": 61,
+     "IG": 35,
+     "CG": 21.3,
+     "NOTAS": "Prepáralas en casa y emplea frutas como endulzante natural."
+    },
+    {
+     "ALIMENTO": "Germen de trigo",
+     "HC": 30,
+     "IG": 15,
+     "CG": 4.5,
+     "NOTAS": "Rico en vitaminas y minerales.Puedes usarlo como complemento en yogures o ensaladas."
+    },
+    {
+     "ALIMENTO": "Harina de amaranto",
+     "HC": 72,
+     "IG": 35,
+     "CG": 25.2,
+     "NOTAS": "Útil en elaboración de panes y galletas caseras."
+    },
+    {
+     "ALIMENTO": "Harina de avena",
+     "HC": 50,
+     "IG": 56,
+     "CG": 28,
+     "NOTAS": "Rica en fibra soluble."
+    },
+    {
+     "ALIMENTO": "Harina de algarroba",
+     "HC": 85,
+     "IG": 15,
+     "CG": 12.7,
+     "NOTAS": "Rica en minerales. Muy usada en repostería."
+    },
+    {
+     "ALIMENTO": "Harina de almendras",
+     "HC": 13.3,
+     "IG": 20,
+     "CG": 2.6,
+     "NOTAS": "No proviene de cereales pero se usa para preparaciones dulces y saladas."
+    },
+    {
+     "ALIMENTO": "Harina de arroz",
+     "HC": 76.3,
+     "IG": 70,
+     "CG": 53.4,
+     "NOTAS": "Desaconsejada."
+    },
+    {
+     "ALIMENTO": "Harina de centeno",
+     "HC": 59,
+     "IG": 45,
+     "CG": 26.5,
+     "NOTAS": "Buena fuente de fibra."
+    },
+    {
+     "ALIMENTO": "Harina de coco",
+     "HC": 18,
+     "IG": 35,
+     "CG": 6.3,
+     "NOTAS": "No proviene de cereales pero se usa para preparaciones dulces y saladas."
+    },
+    {
+     "ALIMENTO": "Harina integral de escaña (espelta pequeña)",
+     "HC": 40,
+     "IG": 70,
+     "CG": 28,
+     "NOTAS": "Buena fuente de proteínas y fibra.De difícil acceso."
+    },
+    {
+     "ALIMENTO": "Harina de garbanzo",
+     "HC": 45,
+     "IG": 35,
+     "CG": 15.7,
+     "NOTAS": "Rica en proteínas y fibra. Útil en empanados o rebozados."
+    },
+    {
+     "ALIMENTO": "Harina de guisante",
+     "HC": 45.3,
+     "IG": 35,
+     "CG": 15.8,
+     "NOTAS": "Rica en proteínas y fibra. Útil para crepes o en horneados."
+    },
+    {
+     "ALIMENTO": "Harina de lentejas verdes",
+     "HC": 59.2,
+     "IG": 35,
+     "CG": 20.70,
+     "NOTAS": "Rica en proteínas y fibra."
+    },
+    {
+     "ALIMENTO": "Harina de soja",
+     "HC": 14.2,
+     "IG": 25,
+     "CG": 3.57,
+     "NOTAS": "Es una harina rica en proteínas."
+    },
+    {
+     "ALIMENTO": "Harina de trigo Candeal o trigo duro",
+     "HC": 75,
+     "IG": 38,
+     "CG": 28.5,
+     "NOTAS": "Buena fuente de fibra."
+    },
+    {
+     "ALIMENTO": "Harina de trigo o maíz",
+     "HC": 66.6,
+     "IG": 75,
+     "CG": 50,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Harina de Teff",
+     "HC": 60,
+     "IG": 57,
+     "CG": 34.2,
+     "NOTAS": "Rico en fibra y proteínas."
+    },
+    {
+     "ALIMENTO": "Maíz en lata",
+     "HC": 20,
+     "IG": 65,
+     "CG": 1.3,
+     "NOTAS": "Verifica que no contenga sal o azúcares añadidos."
+    },
+    {
+     "ALIMENTO": "Maíz en lata sin azúcares añadidos",
+     "HC": 11.1,
+     "IG": 65,
+     "CG": 7.2,
+     "NOTAS": "Verifica que no contenga sales en exceso."
+    },
+    {
+     "ALIMENTO": "Maíz tostado (quicos)",
+     "HC": 50,
+     "IG": 65,
+     "CG": 32.5,
+     "NOTAS": "No aconsejado"
+    },
+    {
+     "ALIMENTO": "Mijo cocido",
+     "HC": 18.8,
+     "IG": 70,
+     "CG": 13.2,
+     "NOTAS": "No contiene gluten."
+    },
+    {
+     "ALIMENTO": "Muesli",
+     "HC": 66.6,
+     "IG": 65,
+     "CG": 43.2,
+     "NOTAS": "Elabora tu propio muesli con avena, almendras y nueces."
+    },
+    {
+     "ALIMENTO": "Pan blanco",
+     "HC": 51.5,
+     "IG": 75,
+     "CG": 38.6,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Pan de hamburguesa",
+     "HC": 47.5,
+     "IG": 85,
+     "CG": 40.4,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Pan de trigo integral",
+     "HC": 45,
+     "IG": 65,
+     "CG": 29.2,
+     "NOTAS": "Comprueba que el etiquetado diga trigo integral. Estos datos son muy variables y dependen del tipo y porcentaje de grano integral."
+    },
+    {
+     "ALIMENTO": "Pan de espelta",
+     "HC": 47.2,
+     "IG": 65,
+     "CG": 30.6,
+     "NOTAS": "La espelta es rica en vitamina B3."
+    },
+    {
+     "ALIMENTO": "Pan de espelta integral",
+     "HC": 47.2,
+     "IG": 45,
+     "CG": 21.2,
+     "NOTAS": "Comprueba que el etiquetado diga trigo integral."
+    },
+    {
+     "ALIMENTO": "Pan de centeno",
+     "HC": 45.8,
+     "IG": 65,
+     "CG": 29.8,
+     "NOTAS": "Leer que no contenga azúcares."
+    },
+    {
+     "ALIMENTO": "Pan de kamut",
+     "HC": 47.6,
+     "IG": 45,
+     "CG": 21.42,
+     "NOTAS": "Es un alimento saciante y rico en omega 6. Suele ir mezclado con otras harinas."
+    },
+    {
+     "ALIMENTO": "Pan de avena integral",
+     "HC": 50,
+     "IG": 66,
+     "CG": 33,
+     "NOTAS": "Rico en fibra soluble."
+    },
+    {
+     "ALIMENTO": "Pan de trigo sarraceno",
+     "HC": 43,
+     "IG": 50,
+     "CG": 21.5,
+     "NOTAS": "No contiene gluten. Suele ir mezclado con otras harinas."
+    },
+    {
+     "ALIMENTO": "Pan rallado",
+     "HC": 66.6,
+     "IG": 70,
+     "CG": 46.6,
+     "NOTAS": "Evita utilizarlo en las preparaciones, puedes cambiarlo por quinoa."
+    },
+    {
+     "ALIMENTO": "Pan tostado de harina integral",
+     "HC": 66.6,
+     "IG": 45,
+     "CG": 30,
+     "NOTAS": "Comprueba que el etiquetado diga trigo integral."
+    },
+    {
+     "ALIMENTO": "Pasta de trigo blando",
+     "HC": 70,
+     "IG": 60,
+     "CG": 42,
+     "NOTAS": "Opta por alternativas como pastas de harina de legumbres o bien, elige pastas tipo spaguetti en lugar de macarrones, pues su IG isminuye.No olvides cocinar al dente."
+    },
+    {
+     "ALIMENTO": "Pasta de trigo integral",
+     "HC": 70,
+     "IG": 40,
+     "CG": 28,
+     "NOTAS": "Buena fuente de fibra. Modera su consumo."
+    },
+    {
+     "ALIMENTO": "Pasta de harina de lentejas rojas (cocida)",
+     "HC": 50,
+     "IG": 35,
+     "CG": 17.5,
+     "NOTAS": "Úsalo como alternativa a las pastas de trigo."
+    },
+    {
+     "ALIMENTO": "Pasta de trigo sarraceno (cruda)",
+     "HC": 67,
+     "IG": 45,
+     "CG": 30
+    },
+    {
+     "ALIMENTO": "Pasta de trigo sarraceno (cocida)",
+     "HC": 35,
+     "IG": 35,
+     "CG": 12.25,
+     "NOTAS": "Combínala con verduras y cocina al dente. Sin gluten"
+    },
+    {
+     "ALIMENTO": "Pasta de guisantes (cruda)",
+     "HC": 57,
+     "IG": 35,
+     "CG": 19.9,
+     "NOTAS": "Cuida su cocción, pues es más rápido que la pasta de trigo. Sin gluten"
+    },
+    {
+     "ALIMENTO": "Pasta de garbanzo (cruda)",
+     "HC": 64,
+     "IG": 35,
+     "CG": 22.4,
+     "NOTAS": "Cuida su cocción, pues es más rápido que la pasta de trigo. Sin gluten."
+    },
+    {
+     "ALIMENTO": "Patata cocida con cáscara",
+     "HC": 16,
+     "IG": 65,
+     "CG": 10.4,
+     "NOTAS": "Cuida no excederte en cantidades."
+    },
+    {
+     "ALIMENTO": "Fécula de patata",
+     "HC": 83,
+     "IG": 95,
+     "CG": 78.9,
+     "NOTAS": "Evita su consumo. Revisa que los alimentos que consumas no la tengan como ingrediente."
+    },
+    {
+     "ALIMENTO": "Patatas al horno",
+     "HC": 29.8,
+     "IG": 95,
+     "CG": 28.3,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Patatas fritas",
+     "HC": 24,
+     "IG": 70,
+     "CG": 23.8,
+     "NOTAS": "Evita su consumo"
+    },
+    {
+     "ALIMENTO": "Quinoa cocida",
+     "HC": 26.3,
+     "IG": 35,
+     "CG": 9.2,
+     "NOTAS": "No contiene gluten. Es una rica fuente de proteína (ideal en dietas veganas)."
+    },
+    {
+     "ALIMENTO": "Quinoa cruda",
+     "HC": 68.9,
+     "IG": 35,
+     "CG": 24.1,
+     "NOTAS": "No contiene gluten. Rica en proteínas, vitaminas y minerales."
+    },
+    {
+     "ALIMENTO": "Sémola de trigo cocido",
+     "HC": 11.1,
+     "IG": 67,
+     "CG": 7.4,
+     "NOTAS": "Combina con verduras bajas en IG."
+    },
+    {
+     "ALIMENTO": "Sémola de trigo crudo",
+     "HC": 69,
+     "IG": 65,
+     "CG": 44.9,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Tapioca",
+     "HC": 88.5,
+     "IG": 85,
+     "CG": 75.2,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Tortita de espelta",
+     "HC": 67,
+     "IG": 45,
+     "CG": 30,
+     "NOTAS": "Recuerda que la espelta sí tiene gluten."
+    },
+    {
+     "ALIMENTO": "Trigo sarraceno crudo",
+     "HC": 71.5,
+     "IG": 45,
+     "CG": 35.75,
+     "NOTAS": "Pseudocereal rico en fibra"
+    },
+    {
+     "ALIMENTO": "Trigo sarraceno inflado",
+     "HC": 68,
+     "IG": 40,
+     "CG": 27.2,
+     "NOTAS": "Rico en fibra"
+    },
+    {
+     "ALIMENTO": "Harina de trigo sarraceno",
+     "HC": 66,
+     "IG": 40,
+     "CG": 26.4,
+     "NOTAS": "Puedes usar esta harina para preparar pan o galletas caseras."
+    },
+    {
+     "ALIMENTO": "Yuca cocida",
+     "HC": 35.5,
+     "IG": 55,
+     "CG": 19.5,
+     "NOTAS": "Es rica en hidratos de carbono complejos. Rica en vitaminas, minerales y proteínas."
+    },
+    {
+     "ALIMENTO": "Altramuces",
+     "HC": 10,
+     "IG": 15,
+     "CG": 1.5,
+     "NOTAS": "Bajos en grasas y ricos en proteínas."
+    },
+    {
+     "ALIMENTO": "Garbanzo crudo",
+     "HC": 50,
+     "IG": 35,
+     "CG": 17.5,
+     "NOTAS": "Contiene isoflavonas."
+    },
+    {
+     "ALIMENTO": "Garbanzo cocido",
+     "HC": 20,
+     "IG": 35,
+     "CG": 7,
+     "NOTAS": "Rico en fibra y proteínas."
+    },
+    {
+     "ALIMENTO": "Guisantes congelados frescos de lata",
+     "HC": 10,
+     "IG": 35,
+     "CG": 3.5,
+     "NOTAS": "No olvides lavar y escurrir los que contienen sal."
+    },
+    {
+     "ALIMENTO": "Judías blancas, cocido",
+     "HC": 35,
+     "IG": 35,
+     "CG": 12.1,
+     "NOTAS": "Ricas en hierro y magnesio. Combínalas con verduras ricas en vitamina C como pimientos o tomates."
+    },
+    {
+     "ALIMENTO": "Judías blancas crudas",
+     "HC": 50,
+     "IG": 35,
+     "CG": 17.5,
+     "NOTAS": "Consúmelas frías en ensalada o en potaje."
+    },
+    {
+     "ALIMENTO": "Lentejas en crudo",
+     "HC": 50,
+     "IG": 25,
+     "CG": 12.5,
+     "NOTAS": "Ricas en hierro, fibra y proteínas."
+    },
+    {
+     "ALIMENTO": "Lentejas cocidas",
+     "HC": 54.8,
+     "IG": 30,
+     "CG": 16.4,
+     "NOTAS": "Contiene folatos que previenen la anemia."
+    },
+    {
+     "ALIMENTO": "Soja seca crudo",
+     "HC": 33.3,
+     "IG": 15,
+     "CG": 5,
+     "NOTAS": "Rica en proteínas. Contiene fitoestrógenos e isoflavonas"
+    },
+    {
+     "ALIMENTO": "Soja seca, hervida",
+     "HC": 10,
+     "IG": 15,
+     "CG": 15,
+     "NOTAS": "Con la soja hervida texturizada preparar hamburguesas sin carne."
+    },
+    {
+     "ALIMENTO": "Habas frescas",
+     "HC": 58.9,
+     "IG": 15,
+     "CG": 8.8,
+     "NOTAS": "Ricas en proteínas.Consúmelas como guarnición"
+    },
+    {
+     "ALIMENTO": "Habas secas",
+     "HC": 24,
+     "IG": 50,
+     "CG": 12,
+     "NOTAS": "Prefiere consumirlas al vapor y al dente de cocción."
+    },
+    {
+     "ALIMENTO": "Almendra",
+     "HC": 5.3,
+     "IG": 15,
+     "CG": 0.8,
+     "NOTAS": "Tiene vitamina E favorece la salud del corazón."
+    },
+    {
+     "ALIMENTO": "Almendra tostada",
+     "HC": 6.6,
+     "IG": 15,
+     "CG": 1,
+     "NOTAS": "Ricas en grasas saludables o polinsaturadas."
+    },
+    {
+     "ALIMENTO": "Almendra frita",
+     "HC": 4.5,
+     "IG": 15,
+     "CG": 0.7,
+     "NOTAS": "Evita su consumo en frito."
+    },
+    {
+     "ALIMENTO": "Anacardos",
+     "HC": 20,
+     "IG": 25,
+     "CG": 5,
+     "NOTAS": "Ricos en ácidos grasas insaturados; oleico y linoleico."
+    },
+    {
+     "ALIMENTO": "Anacardos fritos",
+     "HC": 30.2,
+     "IG": 25,
+     "CG": 7.5
+    },
+    {
+     "ALIMENTO": "Avellana",
+     "HC": 10.5,
+     "IG": 15,
+     "CG": 1.5,
+     "NOTAS": "Sus grasas poliinsaturadas son cardio-protectoras."
+    },
+    {
+     "ALIMENTO": "Cacahuetes fritos",
+     "HC": 8.9,
+     "IG": 15,
+     "CG": 1.3
+    },
+    {
+     "ALIMENTO": "Cacahuetes tostados",
+     "HC": 7.1,
+     "IG": 15,
+     "CG": 1
+    },
+    {
+     "ALIMENTO": "Nueces",
+     "HC": 9,
+     "IG": 15,
+     "CG": 1.35,
+     "NOTAS": "Contiene fitoesteroles que protegen de enfermedades cardiovasculares"
+    },
+    {
+     "ALIMENTO": "Pipas de calabaza",
+     "HC": 20,
+     "IG": 25,
+     "CG": 5,
+     "NOTAS": "Estimulan el tránsito intestinal."
+    },
+    {
+     "ALIMENTO": "Pipas de girasol",
+     "HC": 12.3,
+     "IG": 35,
+     "CG": 4.3,
+     "NOTAS": "Ricas en Vitamina E"
+    },
+    {
+     "ALIMENTO": "Piñones",
+     "HC": 3.9,
+     "IG": 15,
+     "CG": 0.6
+    },
+    {
+     "ALIMENTO": "Pistachos",
+     "HC": 11.6,
+     "IG": 15,
+     "CG": 1.7
+    },
+    {
+     "ALIMENTO": "Albaricoque",
+     "HC": 9.5,
+     "IG": 34,
+     "CG": 3.2,
+     "NOTAS": "Es una fruta muy rica en fibra dietética (2g por cada 100 g de alimento)"
+    },
+    {
+     "ALIMENTO": "Albaricoque seco (orejones)",
+     "HC": 58,
+     "IG": 31,
+     "CG": 17.9,
+     "NOTAS": "Modera su consumo."
+    },
+    {
+     "ALIMENTO": "Arándanos",
+     "HC": 6,
+     "IG": 25,
+     "CG": 1.51,
+     "NOTAS": "Ricos en vitamina C"
+    },
+    {
+     "ALIMENTO": "Arándanos deshidratados",
+     "HC": 62,
+     "IG": 25,
+     "CG": 15.5,
+     "NOTAS": "Ricos en fibra"
+    },
+    {
+     "ALIMENTO": "Brevas",
+     "HC": 16,
+     "IG": 35,
+     "CG": 5.6,
+     "NOTAS": "Es un fruto rico en minerales y fibra"
+    },
+    {
+     "ALIMENTO": "Caqui",
+     "HC": 18.6,
+     "IG": 50,
+     "CG": 9.3,
+     "NOTAS": "Elige frutos no muy maduros para que su IG sea moderado y acompáñalo con nueces o almendras."
+    },
+    {
+     "ALIMENTO": "Castaña cruda",
+     "HC": 36.5,
+     "IG": 50,
+     "CG": 18.2,
+     "NOTAS": "Es rica en minerales como el magnesio, potasio, hierro y fósforo. Y aporta fibra (6,7 g por cada 100 g de alimento)."
+    },
+    {
+     "ALIMENTO": "Castaña tostada",
+     "HC": 39.7,
+     "IG": 65,
+     "CG": 25.8,
+     "NOTAS": "Recuerda que al tostar las castañas se incrementa aún más su IG."
+    },
+    {
+     "ALIMENTO": "Cereza",
+     "HC": 13.5,
+     "IG": 25,
+     "CG": 3.37,
+     "NOTAS": "Es una fruta muy rica en potasio."
+    },
+    {
+     "ALIMENTO": "Chirimoya (pulpa)",
+     "HC": 20,
+     "IG": 54,
+     "CG": 10.8,
+     "NOTAS": "Es rica en vitaminas del grupo B."
+    },
+    {
+     "ALIMENTO": "Ciruela (con piel, cruda)",
+     "HC": 12,
+     "IG": 35,
+     "CG": 4.2,
+     "NOTAS": "Rica en vitaminas antioxidantes A, E y C."
+    },
+    {
+     "ALIMENTO": "Ciruela seca ciruela pasa sin hueso",
+     "HC": 49.16,
+     "IG": 40,
+     "CG": 19.66,
+     "NOTAS": "Muy rica en fibra (18,4 g por cada 100 g de alimento)."
+    },
+    {
+     "ALIMENTO": "Coco fresco",
+     "HC": 15.2,
+     "IG": 35,
+     "CG": 5.32,
+     "NOTAS": "Rico en potasio y fibra dietética.(9g por cada 100 g de alimento)"
+    },
+    {
+     "ALIMENTO": "Coco deshidratado",
+     "HC": 11.8,
+     "IG": 45,
+     "CG": 5.31,
+     "NOTAS": "Por su contenido graso, consúmelo con moderación."
+    },
+    {
+     "ALIMENTO": "Dátil fresco",
+     "HC": 70,
+     "IG": 50,
+     "CG": 35,
+     "NOTAS": "Rico en minerales y fibra dietética."
+    },
+    {
+     "ALIMENTO": "Dátil seco",
+     "HC": 69,
+     "IG": 70,
+     "CG": 45.5
+    },
+    {
+     "ALIMENTO": "Frambuesa",
+     "HC": 7,
+     "IG": 25,
+     "CG": 1.8,
+     "NOTAS": "Son frutas muy ricas en fibra."
+    },
+    {
+     "ALIMENTO": "Fresas",
+     "HC": 7,
+     "IG": 29,
+     "CG": 2,
+     "NOTAS": "Es una de las frutas más bajas en IG y CG."
+    },
+    {
+     "ALIMENTO": "Fruta de la pasión maracuyá, pasionaria.",
+     "HC": 9.5,
+     "IG": 30,
+     "CG": 2.8,
+     "NOTAS": "Rica en hierro, potasio, vitamina C y fibra."
+    },
+    {
+     "ALIMENTO": "Granada",
+     "HC": 13.7,
+     "IG": 35,
+     "CG": 4.7,
+     "NOTAS": "Muy rica en fibra, para acompañar ensaladas, o yogures."
+    },
+    {
+     "ALIMENTO": "Grosella roja",
+     "HC": 5,
+     "IG": 25,
+     "CG": 1.2,
+     "NOTAS": "Favorece la absorción del Hierro por su contenido de vitamina C .Es muy rica en fibra."
+    },
+    {
+     "ALIMENTO": "Grosella negra",
+     "HC": 7.1,
+     "IG": 22,
+     "CG": 1.5,
+     "NOTAS": "Ricas en fibra y antioxidantes."
+    },
+    {
+     "ALIMENTO": "Higos",
+     "HC": 16,
+     "IG": 35,
+     "CG": 5.6,
+     "NOTAS": "Contienen omega 3 y 6 y potasio"
+    },
+    {
+     "ALIMENTO": "Kiwi",
+     "HC": 10.6,
+     "IG": 47,
+     "CG": 4.9,
+     "NOTAS": "Rico en vitamina C"
+    },
+    {
+     "ALIMENTO": "Litchi crudo",
+     "HC": 14.6,
+     "IG": 50,
+     "CG": 7.3,
+     "NOTAS": "Rico en Vitamina C"
+    },
+    {
+     "ALIMENTO": "Mandarina",
+     "HC": 9,
+     "IG": 30,
+     "CG": 2.7,
+     "NOTAS": "Ricas en ácido fólico, carotenos (antioxidantes) y potasio."
+    },
+    {
+     "ALIMENTO": "Mango",
+     "HC": 13.4,
+     "IG": 51,
+     "CG": 6.8,
+     "NOTAS": "Contiene β-Carotenos y Vitamina A"
+    },
+    {
+     "ALIMENTO": "Manzana",
+     "HC": 12,
+     "IG": 36,
+     "CG": 4.3,
+     "NOTAS": "Alto contenido en fósforo y fibra soluble"
+    },
+    {
+     "ALIMENTO": "Manzana cocida",
+     "HC": 20,
+     "IG": 35,
+     "CG": 7,
+     "NOTAS": "Asar o cocer la manzana facilita la digestión de su fibra."
+    },
+    {
+     "ALIMENTO": "Manzana deshidratada",
+     "HC": 60,
+     "IG": 29,
+     "CG": 17.4
+    },
+    {
+     "ALIMENTO": "Melocotón",
+     "HC": 9,
+     "IG": 43,
+     "CG": 3.8,
+     "NOTAS": "Contiene carotenos; antioxidantes naturales."
+    },
+    {
+     "ALIMENTO": "Melocotón conserva",
+     "HC": 13.8,
+     "IG": 45,
+     "CG": 6.2,
+     "NOTAS": "Siempre verifica que no contengan azúcares añadidos."
+    },
+    {
+     "ALIMENTO": "Melocotón en almíbar",
+     "HC": 14.5,
+     "IG": 50,
+     "CG": 7.2,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Melocotón deshidratado",
+     "HC": 61.3,
+     "IG": 35,
+     "CG": 21.4,
+     "NOTAS": "Consúmelo en pequeñas cantidades."
+    },
+    {
+     "ALIMENTO": "Melón",
+     "HC": 6,
+     "IG": 65,
+     "CG": 3.9,
+     "NOTAS": "Contiene una cantidad significativa de agua, lo cual lo hace hidratante y diurético."
+    },
+    {
+     "ALIMENTO": "Membrillo",
+     "HC": 6.3,
+     "IG": 35,
+     "CG": 2.2,
+     "NOTAS": "Rica en pectinas. Muy rico en fibra (6,4 g por cada 100 g)."
+    },
+    {
+     "ALIMENTO": "Membrillo (dulce de)",
+     "HC": 50,
+     "IG": 40,
+     "CG": 20,
+     "NOTAS": "Evita su consumo."
+    },
+    {
+     "ALIMENTO": "Moras",
+     "HC": 6.6,
+     "IG": 25,
+     "CG": 1.65
+    },
+    {
+     "ALIMENTO": "Naranja",
+     "HC": 8.6,
+     "IG": 43,
+     "CG": 3.6,
+     "NOTAS": "Rica en Vitamina C"
+    },
+    {
+     "ALIMENTO": "Naranja (zumo natural)",
+     "HC": 10.4,
+     "IG": 46,
+     "CG": 4.78,
+     "NOTAS": "Evita su consumo, excepto en caso de hipoglucemia."
+    },
+    {
+     "ALIMENTO": "Nectarina",
+     "HC": 10,
+     "IG": 35,
+     "CG": 3.5,
+     "NOTAS": "Ricas en vitamina C y carotenos, zinc y el selenio"
+    },
+    {
+     "ALIMENTO": "Níspero",
+     "HC": 10,
+     "IG": 55,
+     "CG": 5.5
+    },
+    {
+     "ALIMENTO": "Papaya",
+     "HC": 12.5,
+     "IG": 60,
+     "CG": 7.5
+    },
+    {
+     "ALIMENTO": "Paraguayo",
+     "HC": 10,
+     "IG": 35,
+     "CG": 3.5,
+     "NOTAS": "Contiene compuestos fenólicos que ayudan en la reducción de colesterol LDL (malo)."
+    },
+    {
+     "ALIMENTO": "Pasas (uvas) Moscatel",
+     "HC": 68,
+     "IG": 66,
+     "CG": 44.8,
+     "NOTAS": "Consúmelo con moderación."
+    },
+    {
+     "ALIMENTO": "Pasas (uvas) Sultanas",
+     "HC": 73,
+     "IG": 69,
+     "CG": 50.37,
+     "NOTAS": "Consume este alimento con moderación."
+    },
+    {
+     "ALIMENTO": "Pera",
+     "HC": 10.8,
+     "IG": 33,
+     "CG": 3.5,
+     "NOTAS": "Es una de las frutas que más minerales aporta (potasio, magnesio, calcio y hierro)."
+    },
+    {
+     "ALIMENTO": "Piña",
+     "HC": 8.3,
+     "IG": 66,
+     "CG": 5.5,
+     "NOTAS": "Rica en fibra dietética y bromelina."
+    },
+    {
+     "ALIMENTO": "Piña en conserva",
+     "HC": 14.1,
+     "IG": 55,
+     "CG": 7.7,
+     "NOTAS": "Verifica que no contenga azúcares añadidos."
+    },
+    {
+     "ALIMENTO": "Plátano",
+     "HC": 19.1,
+     "IG": 58,
+     "CG": 11.1,
+     "NOTAS": "Alto contenido de potasio e inulina."
+    },
+    {
+     "ALIMENTO": "Pomelo",
+     "HC": 9.1,
+     "IG": 25,
+     "CG": 2.2,
+     "NOTAS": "Posee efectos antioxidantes que favorecen la salud de las células."
+    },
+    {
+     "ALIMENTO": "Pomelo (zumo)",
+     "HC": 8,
+     "IG": 48,
+     "CG": 3.8,
+     "NOTAS": "Contiene Vitamina C y menos carga glucémica que el zumo de naranja."
+    },
+    {
+     "ALIMENTO": "Sandía",
+     "HC": 5,
+     "IG": 75,
+     "CG": 3.8,
+     "NOTAS": "Es una fruta con un gran contenido de agua."
+    },
+    {
+     "ALIMENTO": "Uvas",
+     "HC": 14.1,
+     "IG": 49,
+     "CG": 6.9,
+     "NOTAS": "Consúmelas con cáscara para obtener su fibra y compuestos antioxidantes."
+    },
+    {
+     "ALIMENTO": "Alga (Kelp)",
+     "HC": 9.5,
+     "IG": 0,
+     "CG": 0,
+     "NOTAS": "Es una opción rica en proteínas para personas veganas o vegetarianas."
+    },
+    {
+     "ALIMENTO": "Acelga",
+     "HC": 4.5,
+     "IG": 15,
+     "CG": 0.67,
+     "NOTAS": "Contiene Beta- Carotenos, pigmentos que después serán Vitamina A."
+    },
+    {
+     "ALIMENTO": "Acelga cocida en conserva",
+     "HC": 2.3,
+     "IG": 15,
+     "CG": 0.34,
+     "NOTAS": "Recuerda lavarlas antes de cocinarlas para retirar el exceso de sales."
+    },
+    {
+     "ALIMENTO": "Achicoria, escarola",
+     "HC": 1,
+     "IG": 15,
+     "CG": 0.15,
+     "NOTAS": "Estimula secreciones biliares y gástricas."
+    },
+    {
+     "ALIMENTO": "Achicoria (raíz, polvo soluble).",
+     "HC": 58,
+     "IG": 40,
+     "CG": 23.2
+    },
+    {
+     "ALIMENTO": "Ajo",
+     "HC": 24.4,
+     "IG": 30,
+     "CG": 7.32,
+     "NOTAS": "Contiene compuestos sulfurados que protege de los radicales libres."
+    },
+    {
+     "ALIMENTO": "Alcachofa",
+     "HC": 3,
+     "IG": 20,
+     "CG": 0.6,
+     "NOTAS": "Protege al hígado y a la vesícula biliar por su principio activo llamado cinarina."
+    },
+    {
+     "ALIMENTO": "Alcachofa cocida en conserva",
+     "HC": 1.2,
+     "IG": 20,
+     "CG": 0.2,
+     "NOTAS": "Recuerda lavarlas antes de cocinarlas para retirar el exceso de sales."
+    },
+    {
+     "ALIMENTO": "Apio crudo",
+     "HC": 2.4,
+     "IG": 15,
+     "CG": 0.36,
+     "NOTAS": "Contiene apigenina; flavonoide que protege a las células de radicales libres."
+    },
+    {
+     "ALIMENTO": "Berenjena",
+     "HC": 2.3,
+     "IG": 20,
+     "CG": 0.5,
+     "NOTAS": "Consúmela con piel para aprovechar su contenido de antocianinas; sustancias bioactivas que mejoran la salud cardiovascular."
+    },
+    {
+     "ALIMENTO": "Berro",
+     "HC": 2,
+     "IG": 15,
+     "CG": 0.3,
+     "NOTAS": "Contiene isotiocianato, que favorecen la disminución de niveles de triglicéridos."
+    },
+    {
+     "ALIMENTO": "Berza",
+     "HC": 2.5,
+     "IG": 15,
+     "CG": 0.37,
+     "NOTAS": "Rica en Vitamina C, acompáñala con legumbres para mejorar la absorción del hierro de éstas."
+    },
+    {
+     "ALIMENTO": "Borraja",
+     "HC": 3.1,
+     "IG": 15,
+     "CG": 0.5,
+     "NOTAS": "Rica en Hierro, prepárala con verduras ricas en vitamina C"
+    },
+    {
+     "ALIMENTO": "Brócoli",
+     "HC": 2.6,
+     "IG": 15,
+     "CG": 0.4,
+     "NOTAS": "Contiene un flavonoide llamado quercetina que tiene efectos antioxidantes."
+    },
+    {
+     "ALIMENTO": "Calabacín",
+     "HC": 2,
+     "IG": 15,
+     "CG": 0.3,
+     "NOTAS": "Contiene mucílagos, unos compuestos que protegen la pared interior del sistema digestivo."
+    },
+    {
+     "ALIMENTO": "Calabaza",
+     "HC": 5,
+     "IG": 75,
+     "CG": 3.75,
+     "NOTAS": "Contiene un pigmento llamado zeaxantina que favorece la salud ocular."
+    },
+    {
+     "ALIMENTO": "Cardo",
+     "HC": 2.2,
+     "IG": 15,
+     "CG": 0.3,
+     "NOTAS": "Rico en hierro, calcio y vitamina C."
+    },
+    {
+     "ALIMENTO": "Cebolla",
+     "HC": 5.3,
+     "IG": 15,
+     "CG": 0.8,
+     "NOTAS": "Es rica en quercitina, flavonoide con propiedades antiinflamatorias."
+    },
+    {
+     "ALIMENTO": "Champiñón",
+     "HC": 0.5,
+     "IG": 15,
+     "CG": 0.1,
+     "NOTAS": "Rico en hierro y vitaminas A, C y B6."
+    },
+    {
+     "ALIMENTO": "Col rizada  Kalé",
+     "HC": 1.3,
+     "IG": 15,
+     "CG": 0.2,
+     "NOTAS": "Es fuente de proteínas vegetales, por lo que es ideal en dietas veganas."
+    },
+    {
+     "ALIMENTO": "Col de Bruselas",
+     "HC": 2.4,
+     "IG": 15,
+     "CG": 0.36,
+     "NOTAS": "Contienen glucosinolatos, que activan sistemas enzimáticos que protegen a las células."
+    },
+    {
+     "ALIMENTO": "Coliflor",
+     "HC": 2.3,
+     "IG": 15,
+     "CG": 0.34,
+     "NOTAS": "Rica en potasio, calcio y ácido fólico."
+    },
+    {
+     "ALIMENTO": "Endibia",
+     "HC": 3.6,
+     "IG": 15,
+     "CG": 0.5,
+     "NOTAS": "Acción antiinflamatoria."
+    },
+    {
+     "ALIMENTO": "Esparrago blanco en conserva",
+     "HC": 1.5,
+     "IG": 15,
+     "CG": 0.2,
+     "NOTAS": "Recuerda lavarlas antes de cocinarlas para retirar el exceso de sales."
+    },
+    {
+     "ALIMENTO": "Espárrago verde",
+     "HC": 2,
+     "IG": 15,
+     "CG": 0.3,
+     "NOTAS": "Contiene saponinas que disminuyen el colesterol sanguíneo LDL (malo)."
+    },
+    {
+     "ALIMENTO": "Espinaca",
+     "HC": 0.6,
+     "IG": 15,
+     "CG": 0.1,
+     "NOTAS": "Contiene luteína y zeaxantina, que previene de la enfermedad macular y cataratas."
+    },
+    {
+     "ALIMENTO": "Grelos",
+     "HC": 5.7,
+     "IG": 15,
+     "CG": 0.9,
+     "NOTAS": "Rico en vitamina A."
+    },
+    {
+     "ALIMENTO": "Judía verde",
+     "HC": 4.2,
+     "IG": 30,
+     "CG": 1.3,
+     "NOTAS": "Ricas en fibra soluble."
+    },
+    {
+     "ALIMENTO": "Lechuga",
+     "HC": 1.5,
+     "IG": 15,
+     "CG": 0.2,
+     "NOTAS": "Es diurética;, rica en agua y minerales."
+    },
+    {
+     "ALIMENTO": "Lombarda",
+     "HC": 3.5,
+     "IG": 15,
+     "CG": 0.5,
+     "NOTAS": "Contiene glutamina que favorece la salud intestinal."
+    },
+    {
+     "ALIMENTO": "Nabo crudo",
+     "HC": 4.6,
+     "IG": 30,
+     "CG": 1.4,
+     "NOTAS": "Mejora el tránsito intestinal por su contenido en fibra y agua."
+    },
+    {
+     "ALIMENTO": "Nabo cocido",
+     "HC": 3,
+     "IG": 85,
+     "CG": 2.57,
+     "NOTAS": "Recuerda que la cocción aumenta el IG de los alimentos."
+    },
+    {
+     "ALIMENTO": "Palmitos",
+     "HC": 8,
+     "IG": 20,
+     "CG": 1.6,
+     "NOTAS": "Recuerda lavarlas antes de cocinarlas para retirar el exceso de sales."
+    },
+    {
+     "ALIMENTO": "Pepino",
+     "HC": 2,
+     "IG": 15,
+     "CG": 0.3,
+     "NOTAS": "Contiene sílice, compuesto que fortalece ligamentos y tendones."
+    },
+    {
+     "ALIMENTO": "Pimiento rojo",
+     "HC": 3.8,
+     "IG": 15,
+     "CG": 0.6,
+     "NOTAS": "Rico en fibra y antioxidantes como la vitamina C."
+    },
+    {
+     "ALIMENTO": "Pimiento verde",
+     "HC": 1.6,
+     "IG": 15,
+     "CG": 0.2,
+     "NOTAS": "Rico en fibra y antioxidantes como la vitamina C.Consúmelo crudo en ensaladas para aprovechar mejor sus vitaminas."
+    },
+    {
+     "ALIMENTO": "Pimiento del piquillo",
+     "HC": 3.8,
+     "IG": 15,
+     "CG": 0.6,
+     "NOTAS": "Ricos en potasio, magnesio y calcio."
+    },
+    {
+     "ALIMENTO": "Puerro",
+     "HC": 3.2,
+     "IG": 15,
+     "CG": 0.5,
+     "NOTAS": "Su contenido en zinc favorece la salud de las arterias."
+    },
+    {
+     "ALIMENTO": "Rábano",
+     "HC": 2.1,
+     "IG": 15,
+     "CG": 0.3,
+     "NOTAS": "Contienen glucosilonatos que favorecen la salud del hígado."
+    },
+    {
+     "ALIMENTO": "Remolacha",
+     "HC": 8.3,
+     "IG": 30,
+     "CG": 2.5,
+     "NOTAS": "Contiene betaína que protege a las células de la inflamación."
+    },
+    {
+     "ALIMENTO": "Remolacha en conserva",
+     "HC": 7.6,
+     "IG": 65,
+     "CG": 4.9,
+     "NOTAS": "Verifica en contenido de sal o azúcares añadidos."
+    },
+    {
+     "ALIMENTO": "Repollo",
+     "HC": 4,
+     "IG": 15,
+     "CG": 0.6,
+     "NOTAS": "Contiene Vitamina A, que favorece la salud de la visión."
+    },
+    {
+     "ALIMENTO": "Setas",
+     "HC": 3.3,
+     "IG": 15,
+     "CG": 0.5,
+     "NOTAS": "Ricas en agua, fibra y proteínas."
+    },
+    {
+     "ALIMENTO": "Soja en brotes",
+     "HC": 4.6,
+     "IG": 15,
+     "CG": 0.7,
+     "NOTAS": "Rica en fibra, potasio y vitamina C."
+    },
+    {
+     "ALIMENTO": "Tomate",
+     "HC": 3.5,
+     "IG": 30,
+     "CG": 1.1,
+     "NOTAS": "El licopeno que contiene protege al sistema inmunológico."
+    },
+    {
+     "ALIMENTO": "Zanahoria",
+     "HC": 7,
+     "IG": 30,
+     "CG": 2.1,
+     "NOTAS": "Contiene vitamina A.Prefiere su consumo en crudo, pues en la cocción sus azúcares se hacen más disponibles y aumenta su IG."
+    },
+    {
+     "ALIMENTO": "Zanahoria hervida",
+     "HC": 7,
+     "IG": 85,
+     "CG": 2.8,
+     "NOTAS": "Si consumes la zanahoria cocida, cuida que sea una cocción al vapor o al horno, y que quede al dente."
+    }
+   ]
